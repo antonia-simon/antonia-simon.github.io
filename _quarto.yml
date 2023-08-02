@@ -4,7 +4,7 @@ project:
 website:
   site-url: https://antonia-simon.github.io/
   repo-url: https://github.com/antonia-simon/antonia-simon.github.io/
-  favicon: favicon.png
+  favicon: antimon.png
   title: "Ant imon"
   navbar:
     left:
